@@ -1,29 +1,10 @@
 # sso-web
+单点登录页面
 
-## Project setup
-```
-npm install
-```
+## 登录地址
+[http://www.arkfancy.com/sso/#/login](http://www.arkfancy.com/sso/#/login)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 更新日志
+### [v0.0.1] 2019-09-27 
+- 项目初始化。
+- 提供临时登录页面。
